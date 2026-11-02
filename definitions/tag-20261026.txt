@@ -3,3 +3,6 @@ act_quant
 add3
 add_constant
 apply_group_norm_silu
+gemma_fused_add_rmsnorm
+gemma_rmsnorm
+FlagGems-sglang:silu_and_mul
